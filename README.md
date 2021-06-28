@@ -9,8 +9,7 @@ Growth Mindset: *“In a growth mindset, people believe that their most basic ab
 *  Replace the word “failing” with the word “learning.”
 *  Value the process over the end result.
 *  Cultivate a sense of purpose
-### YOU CAN READ MORE TIPS FROM THIS AMAZING BOOK I RECOMENDED [Mindset: The New Psychology of Success Paperback – Illustrated, Dec 26 2007
-](https://www.amazon.ca/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/ref=sr_1_1?crid=3EVKN4W8BC0UD&keywords=growth+mindset+carol+dweck&qid=1560274099&s=books&sprefix=growth+mindset+%2Cstripbooks%2C184&sr=1-1)
+### YOU CAN READ MORE TIPS FROM THIS AMAZING BOOK I RECOMENDED [Mindset: The New Psychology of Success Paperback](https://www.amazon.ca/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/ref=sr_1_1?crid=3EVKN4W8BC0UD&keywords=growth+mindset+carol+dweck&qid=1560274099&s=books&sprefix=growth+mindset+%2Cstripbooks%2C184&sr=1-1)
 
 **NOW TELL ME MY LOVELY FRIEND ARE YOUR MIND GROUTH OR NOT**:wink:	
 
