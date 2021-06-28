@@ -8,5 +8,14 @@ html |  markdown
 < strong > < /strond > |* * *---* * *
 < il> < /il> | * *-----* *
 
+## What is Markdown used for?
+*Markdown can be used for everything*.
+ 1.  to create websites
+ 2.  documents
+ 3.  notes
+ 4. books
+ 5. presentations
+ 6.  email messages
+
 
 
