@@ -1,6 +1,8 @@
 # GIT
 softwere tha you can install in our pc ofline USED (CLI) 
 
+![git](https://illustrated-git.readthedocs.io/en/latest/_images/git-flows.svg)
+
 *Before we start yoi must now these main concept*
 
 **Local Version Control** *programmers created Local Version Control systems. A Local VCS entails one database on your hard disk that stores changes to files* 
